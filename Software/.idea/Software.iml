@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.jdom:jdom2:2.0.6" level="project" />
+    <orderEntry type="library" name="com.github.vbmacher:java-cup-runtime:11b" level="project" />
+    <orderEntry type="library" name="de.sven-jacobs:loremipsum:1.0" level="project" />
+    <orderEntry type="library" name="com.github.mifmif:generex:1.0.2" level="project" />
+    <orderEntry type="library" name="com.github.krraghavan:xeger:1.0.0-RELEASE" level="project" />
+  </component>
+</module>

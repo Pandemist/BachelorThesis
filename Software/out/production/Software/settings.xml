@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<options
+    DEBUG="true"
+    RNG_PATH="../Data/in/OpenDocument-schema-v_NEW.rng"
+    PACK_SCRIPT="../Data/in/pack.sh"
+    TEMPLATE_PATH="../Data/in/template/"
+    LOGFILE_PATH="../Data/log/"
+    FUZZING_PATH="../Data/fuzzing/"
+    PROBABLISTIC_PATH="../Data/probablistic/"
+
+    LIBREOFFICE_TIMEOUT="15"
+
+    FUZZING_MODE="R"
+
+    CHANCE_OPTIONAL="0.5"
+    ONEORMORE_MIN="1"
+    ONEORMORE_MAX="31"
+    ONEORMORE_AV="20"
+    ZEROORMORE_MIN="0"
+    ZEROORMORE_MAX="30"
+    ZEROORMORE_AV="15"
+
+    MAX_REC_DEPTH="25"
+    MAX_USAGE="20"
+
+>
+    <!--
+    Debug (true|false) - Programm im Debugmodus starten
+    Rng_Path - Relativer Pfad zur .rng Datei
+    Pack_Script - Pfad an dem das Pack Script liegt
+    Template_Path - Pfad an dem das Grundgerüst einer LibreOffcie Datei liegt
+    Out_Path - Relativer Pfad, indem der Datenoutput abgelegt werden soll
+    Logfile_Path - Relativer Pfad, indem die Logfiles abgelegt werden sollen
+    Fuzzing_Path - Relativer Pfad, indem gefuzzte Dokumente abgelegt werden
+
+    LibreOffice_Timeout - Zeit bis LibreOffice beendet wird, wenn kein Fehler auftritt
+
+    Fuzzing_Mode - [R] random; [P] probabilistisch (Benötigt probabilistische Informationen)
+
+    Chance_Optional - (0 <= X <= 1) Wahrscheinlichkeit Optionale Tags zu wählen
+    Chance_Choice - (0 <= X <= 1) Anzahl an der gewählten Möglichkeiten
+    OneOrMore_Min - (Positiv Int > 0) Mindest Anzahl an Iterationen
+    OneOrMore_Max - (Positiv Int > Min) Höchst Anzahl an Iterationen
+    OneOrMore_Av - (Max >= Positiv Int >= Min) Durchschnittliche Anzahl an Iterationen
+    ZeroOrMore_Min - (Positiv Int >= 0) Mindest Anzahl an Iterationen
+    ZeroOrMore_Max - (Positiv Int > Min) Höchst Anzahl an Iterationen
+    ZeroOrMore_Av - (Max >= Positiv Int >= Min) Durchschnittliche Anzahl an Iterationen
+
+    Max_Rec_depth - (Integer > 0) Maximale Rekursionstiefe
+    Max_Usage - (Integer > 0) Maximales durchlaufen einer Entscheidung
+
+    -->
+</options>

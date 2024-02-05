@@ -1,0 +1,65 @@
+package de.bucherda.probabilistic;
+import java_cup.runtime.*;
+
+terminal ZERO;  // 2
+terminal QM;
+terminal HEAD;
+terminal ELEMENT_O;
+terminal ELEMENT_C; // 6
+terminal ATTRIBUTE_O;
+terminal ATTRIBUTE_C;
+terminal GROUP_O;
+terminal GROUP_C;
+terminal INTERLEAVE_O;
+terminal INTERLEAVE_C;
+terminal CHOICE_O;
+terminal CHOICE_C;
+terminal OPTIONAL_O;
+terminal OPTIONAL_C;
+terminal ZEROORMORE_O;
+terminal ZEROORMORE_C;
+terminal ONEORMORE_O;
+terminal ONEORMORE_C;
+terminal LIST_O;
+terminal LIST_C;
+terminal START_O;
+terminal START_C;
+terminal MIXED_O;
+terminal MIXED_C;
+terminal EXCEPT_O;
+terminal EXCEPT_C;
+terminal DEFINE;
+terminal DEFINE_C;
+terminal DATA_C;
+terminal ANYNAME_O;
+terminal ANYNAME_C;
+terminal NSNAME_O;
+terminal NSNAME_C;
+terminal NAME_O;
+terminal NAME_C;
+terminal NAME;
+terminal GRAMMAR;
+terminal GRAMMAR_C;
+terminal EMPTY;
+terminal TEXT;
+terminal NOTALLOWED;
+terminal ELEMENT;
+terminal ATTRIBUTE;
+terminal REF;
+terminal PARENTREF;
+terminal DATA;
+terminal EXTERNALREF;
+terminal ANYNAME;
+terminal CLOSETAG;
+terminal ENDTAG;
+terminal STRING;
+terminal VALUE;
+terminal PARAM;
+terminal ATTR;
+
+/*-*
+ * The following two lines define a dummy non-terminal and grammar rule.  CUP
+ * needs at least one rule to run without errors.
+ */
+non terminal dummy;
+dummy ::= ;

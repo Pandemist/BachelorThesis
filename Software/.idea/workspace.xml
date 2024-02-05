@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27676dbf-e045-4e88-985b-33f20d4aebb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Data/in/OpenDocument-schema-v1.0-os.rng" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/in/OpenDocument-schema-v_NEW.rng_Probab.rng" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/in/OpenDocument-schema-v_NEW.rng_Probab.rng" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/in/pack.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/in/pack.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/in/template/.~lock.test.odt#" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/in/template/.~lock.test.odt#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/in/template/content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data/in/template/content.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/in/template/test.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/probablistic/content_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Software.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Software/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/LibreOfficeFuzzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/LibreOfficeFuzzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/fuzzing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/fuzzing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/grammar/RngToGrammar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/grammar/RngToGrammar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/minimize/Minimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/minimize/Minimizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/probabilistic/probabBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/probabilistic/probabBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/utils/RandomPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/utils/RandomPicker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/utils/XmlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/utils/XmlGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/de/bucherda/utils/XmlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de/bucherda/utils/XmlHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.bbl" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.bbl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.blg" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.blg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.out" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.synctex.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/Thesis.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/Thesis.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thesis/bibliography.bib" beforeDir="false" afterPath="$PROJECT_DIR$/../Thesis/bibliography.bib" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1OYYNSZB5ricGUEkI65yE8oj007" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554894788150" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30229884" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="de.bucherda.grammar.rules" />
+      <recent name="de.bucherda.grammar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/de/bucherda/parseTree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="LibreOfficeFuzzer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/../Data/outPut.log" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="de.bucherda.LibreOfficeFuzzer" />
+      <module name="Software" />
+      <option name="PROGRAM_PARAMETERS" value="test" />
+      <option name="VM_PARAMETERS" value="-Xss1G -Xmx1G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27676dbf-e045-4e88-985b-33f20d4aebb2" name="Default Changelist" comment="" />
+      <created>1551780253652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551780253652</updated>
+      <workItem from="1551780255193" duration="592000" />
+      <workItem from="1551781186576" duration="23899000" />
+      <workItem from="1551974614154" duration="41350000" />
+      <workItem from="1552232528596" duration="50859000" />
+      <workItem from="1553958268340" duration="10803000" />
+      <workItem from="1554301529978" duration="113000" />
+      <workItem from="1554302089513" duration="44172000" />
+      <workItem from="1555492718599" duration="145000" />
+      <workItem from="1555493183766" duration="11072000" />
+      <workItem from="1556263131924" duration="41000" />
+      <workItem from="1556263425674" duration="9014000" />
+      <workItem from="1556782550377" duration="16000" />
+      <workItem from="1556782668123" duration="1197000" />
+      <workItem from="1557144575565" duration="43726000" />
+      <workItem from="1558518959062" duration="311000" />
+      <workItem from="1558519508082" duration="1783000" />
+      <workItem from="1558736653812" duration="3767000" />
+      <workItem from="1562592400831" duration="49000" />
+      <workItem from="1562592477909" duration="3832000" />
+      <workItem from="1562686924306" duration="80000" />
+      <workItem from="1563403057119" duration="599000" />
+      <workItem from="1563404726046" duration="2618000" />
+      <workItem from="1563717307004" duration="605000" />
+      <workItem from="1563725655114" duration="80000" />
+      <workItem from="1563730525780" duration="1495000" />
+      <workItem from="1563735417507" duration="617000" />
+      <workItem from="1563736083132" duration="656000" />
+      <workItem from="1563736855493" duration="596000" />
+      <workItem from="1563737584445" duration="7298000" />
+      <workItem from="1563993781046" duration="827000" />
+      <workItem from="1563994762830" duration="202000" />
+      <workItem from="1563998845746" duration="2006000" />
+      <workItem from="1564155743765" duration="121000" />
+      <workItem from="1564155969731" duration="33000" />
+      <workItem from="1564156039482" duration="1014000" />
+      <workItem from="1564160824565" duration="1041000" />
+      <workItem from="1564162690235" duration="219000" />
+      <workItem from="1564569870365" duration="116000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added first Debug">
+      <created>1551788342197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551788342197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Input Parameters Implemented">
+      <created>1551810432010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551810432010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Relax NG Compact Grammar Export (not finished yet)">
+      <created>1551902742105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551902742106</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First partly correct Relax NG Compact Grammar created">
+      <created>1551915737747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551915737747</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First partly correct Relax NG Compact Grammar created">
+      <created>1551916141101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551916141101</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First Step for multiple Grammar Forms">
+      <created>1551918011725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551918011725</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Partly reimplemented rng to rnc">
+      <created>1552084851719</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552084851719</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Improving rng to rnc">
+      <created>1552219236208</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552219236208</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Started on Grammar Scanner">
+      <created>1552335638386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552335638386</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Grundlegender Fuzzer fertiggestellt (wird später verbessert)&#10;Erster automaitscher Test mit LibreOffice implementiert">
+      <created>1554891435004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554891435004</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Testen der generierten Dateien fertiggestellt (Orakel)&#10;Minimizer funktioniert jetzt">
+      <created>1557231706740</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557231706740</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Added first Debug" />
+    <MESSAGE value="Input Parameters Implemented" />
+    <MESSAGE value="First Relax NG Compact Grammar Export (not finished yet)" />
+    <MESSAGE value="First partly correct Relax NG Compact Grammar created" />
+    <MESSAGE value="First Step for multiple Grammar Forms" />
+    <MESSAGE value="Partly reimplemented rng to rnc" />
+    <MESSAGE value="Improving rng to rnc" />
+    <MESSAGE value="Started on Grammar Scanner" />
+    <MESSAGE value="Grundlegender Fuzzer fertiggestellt (wird später verbessert)&#10;Erster automaitscher Test mit LibreOffice implementiert" />
+    <MESSAGE value="Testen der generierten Dateien fertiggestellt (Orakel)&#10;Minimizer funktioniert jetzt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testen der generierten Dateien fertiggestellt (Orakel)&#10;Minimizer funktioniert jetzt" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Software.jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Software</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.github.krraghavan:xeger:1.0.0-RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

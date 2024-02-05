@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="de.sven-jacobs:loremipsum:1.0" type="repository">
+    <properties maven-id="de.sven-jacobs:loremipsum:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/sven-jacobs/loremipsum/1.0/loremipsum-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
